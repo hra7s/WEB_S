@@ -1,0 +1,30 @@
+
+
+CSS --> CASCADING STYLE SHEET 
+
+1.How to link css to html 
+
+
+Internal css 
+External css 
+style tag 
+
+Inline CSS 
+style tag
+
+key-value --> property 
+
+Different types of Selectors 
+
+1. class (.)
+2. id (#)
+3. tag or name selector (name of the tag)
+
+priority -->(!important) > style tag > id > class > tag 
+
+External CSS 
+
+we need to link .css file with html file 
+
+ 
+ 
