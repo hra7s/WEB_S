@@ -26,5 +26,38 @@ External CSS
 
 we need to link .css file with html file 
 
+
+Properties 
+
+color ,bg-color, font-size,font-family,text, border properties 
+linear gradient 
+
+
+external css 
+sass 
+scss 
+bootstrap 
+ant 
+chakra ui 
+material UI 
+tailwind css 
+
+
+Flex box Properties 
+
+1. display: flex 
+2. justify-content: flex-start , flex-end , center,space-between, space-around
+
+flex-direction --> row 
+default position ---> row wise 
+
+when it is horizontal (justify-content)
+when it is vertical (align-items)
+
+when flex direction changes from row to column 
+
+justify-content --> vertical
+align-items --> horizontal
  
- 
+ https://flexboxfroggy.com/ 
+
