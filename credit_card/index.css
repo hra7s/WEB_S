@@ -1,0 +1,15 @@
+
+
+.card{
+    height: 280px;
+    width: 480px;
+    background-image: linear-gradient(to right,brown,black);
+    border-radius: 20px;
+    padding: 20px;
+    margin:20px
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
