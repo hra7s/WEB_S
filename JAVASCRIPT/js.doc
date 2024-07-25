@@ -18,3 +18,29 @@ ex: node index.js
 What is a function 
 
 Will execute the block of code for every function call  
+
+
+https://roadmap.sh/javascript 
+
+
+Varibales --> used to store the values of different data types 
+
+used as a container 
+
+To declare a variables we need keywords in js 
+
+Keywords --> var, let, const (why 3) 
+
+js --> upto 2015 we have only one keyword (var ) 
+
+
+Scope --> The region where we can access the variable
+
+Var , let , Const 
+
+There are three types 
+1.Global Scope 
+2.Local Scope 
+3.Block Scope 
+
+https://prototyp.digital/blog/what-is-execution-context-in-javascript 
