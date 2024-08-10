@@ -52,5 +52,11 @@ let arr=["html","react","hello","css","python"]
 
 //coding --> 
 
-https://www.programiz.com/javascript/examples
+//https://www.programiz.com/javascript/examples
 
+
+const prompt = require("prompt-sync")({signint:true})
+
+
+const out= prompt("enter your value:") 
+console.log(out)
