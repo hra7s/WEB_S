@@ -30,7 +30,7 @@ let options={
     headers:{
         "Content-Type" : "application/Json",
         Accept:"application/Json",
-        Authorization: "Bearer 20955982edea6a3113dcaba5796abdd08fb6b995a0c0b66b445532389edfbf93"
+        Authorization: "Bearer "
     },
     body: JSON.stringify(data)
 }
